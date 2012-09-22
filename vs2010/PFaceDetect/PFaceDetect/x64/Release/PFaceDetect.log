@@ -1,0 +1,35 @@
+﻿Build started 9/22/2012 6:44:10 AM.
+     1>Project "C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\PFaceDetect\PFaceDetect.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\PFaceDetect.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\Java\jdk1.7.0_06\include" /I"C:\Program Files\Java\jdk1.7.0_06\include\win32" /IC:\SDK\opencv\build\include /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D PFACEDETECT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Release\PFaceDetect.pch" /Fo"x64\Release\\" /Fd"x64\Release\vcWindows7.1SDK.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\Java\jdk1.7.0_06\include" /I"C:\Program Files\Java\jdk1.7.0_06\include\win32" /IC:\SDK\opencv\build\include /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D PFACEDETECT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vcWindows7.1SDK.pdb" /Gd /TP /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\Java\jdk1.7.0_06\include" /I"C:\Program Files\Java\jdk1.7.0_06\include\win32" /IC:\SDK\opencv\build\include /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D PFACEDETECT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Release\PFaceDetect.pch" /Fo"x64\Release\\" /Fd"x64\Release\vcWindows7.1SDK.pdb" /Gd /TP /errorReport:prompt PFaceDetect.cpp pFaceDetect_PFaceDetect.cpp
+         PFaceDetect.cpp
+         pFaceDetect_PFaceDetect.cpp
+     1>pFaceDetect_PFaceDetect.cpp(63): warning C4244: '=' : conversion from 'double' to 'jint', possible loss of data
+     1>pFaceDetect_PFaceDetect.cpp(64): warning C4244: '=' : conversion from 'double' to 'jint', possible loss of data
+     1>pFaceDetect_PFaceDetect.cpp(65): warning C4244: '=' : conversion from 'double' to 'jint', possible loss of data
+     1>pFaceDetect_PFaceDetect.cpp(66): warning C4244: '=' : conversion from 'double' to 'jint', possible loss of data
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\x64\Release\PFaceDetect.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\SDK\opencv\build\x64\vc10\lib opencv_core242.lib opencv_highgui242.lib opencv_imgproc242.lib opencv_objdetect242.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\PFaceDetect.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\x64\Release\PFaceDetect.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\x64\Release\PFaceDetect.lib" /MACHINE:X64 /DLL x64\Release\dllmain.obj
+         x64\Release\PFaceDetect.obj
+         x64\Release\pFaceDetect_PFaceDetect.obj
+         x64\Release\stdafx.obj
+            Creating library C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\x64\Release\PFaceDetect.lib and object C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\x64\Release\PFaceDetect.exp
+         Generating code
+         Finished generating code
+         PFaceDetect.vcxproj -> C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\x64\Release\PFaceDetect.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.1\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\x64\Release\PFaceDetect.dll;#2" /manifest x64\Release\PFaceDetect.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\PFaceDetect.unsuccessfulbuild".
+         Touching "x64\Release\PFaceDetect.lastbuildstate".
+     1>Done Building Project "C:\Users\bryan\Documents\Visual Studio 2010\Projects\PFaceDetect\PFaceDetect\PFaceDetect.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.65

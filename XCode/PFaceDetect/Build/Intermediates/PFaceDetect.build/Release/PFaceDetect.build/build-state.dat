@@ -1,0 +1,132 @@
+TPFaceDetect
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.o /Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.o /Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib normal x86_64
+cGenerateDSYMFile /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib.dSYM /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/../../../../../System/Library/Frameworks/JavaVM.framework/JavaVM
+c00000000504F380E0000000000019430
+t1347368974
+s103472
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/../../../../../opt/local/lib/libopencv_core.2.4.2.dylib
+c00000000505C88AF0000000000444284
+t1348241583
+s4473476
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/../../../../../opt/local/lib/libopencv_highgui.2.4.2.dylib
+c00000000505C88B40000000000048CA4
+t1348241588
+s298148
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/../../../../../opt/local/lib/libopencv_imgproc.2.4.2.dylib
+c00000000505C88B000000000001C4320
+t1348241584
+s1852192
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/../../../../../opt/local/lib/libopencv_objdetect.2.4.2.dylib
+c00000000505C88BA0000000000081B20
+t1348241594
+s531232
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.o
+t2
+s0
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/PFaceDetect.LinkFileList
+c00000000505D92580000000000000143
+t1348309592
+s323
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.o
+t2
+s0
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib
+t2
+s0
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib.dSYM
+t2
+s0
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp
+c00000000505D2C4B0000000000000683
+t1348283467
+s1667
+i"FaceDetect.h"
+i<iostream>
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.h
+c00000000505D2B6000000000000002F9
+t1348283232
+s761
+
+N/Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp
+c00000000505D924F00000000000008CE
+t1348309583
+s2254
+
+CBuild AST from /Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp
+r0
+
+CBuild AST from /Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc2fb02d8c90db641^d52513d8c90db641^---0#1#0#--18"Check dependencies36"C02EE70D-4E9A-4E9C-818A-3D17B79CBF8F-
+
+CCompileC Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.o /Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s370002392.078299
+e370002392.890186
+r1
+xCompileC
+xBuild/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.o
+x/Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp992e14d8c90db641^2ae3e3d8c90db641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp0000000000000000^2519"CompileC Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.o FaceDetect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chungbryan/Documents/My_Applications/PFaceDetect    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/PFaceDetect.hmap -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/opt/local/include -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/DerivedSources/x86_64 -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/DerivedSources -F/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release -MMD -MT dependencies -MF /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.d --serialize-diagnostics /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.dia -c /Users/chungbryan/Documents/My_Applications/PFaceDetect/FaceDetect.cpp -o /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/FaceDetect.o36"44E596A8-3632-4D33-84CF-ED2AAD3FA8D3-
+
+CCompileC Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.o /Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s370002392.078265
+e370002392.920622
+r1
+xCompileC
+xBuild/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.o
+x/Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp992e14d8c90db641^904becd8c90db641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp0000000000000000^2597"CompileC Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.o pFaceDetect_PFaceDetect.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chungbryan/Documents/My_Applications/PFaceDetect    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/PFaceDetect.hmap -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/opt/local/include -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/DerivedSources/x86_64 -I/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/DerivedSources -F/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release -MMD -MT dependencies -MF /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.d --serialize-diagnostics /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.dia -c /Users/chungbryan/Documents/My_Applications/PFaceDetect/pFaceDetect_PFaceDetect.cpp -o /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/pFaceDetect_PFaceDetect.o36"CF8A60EA-9134-40A5-90DE-7B461EB58FAC-
+
+CGenerateDSYMFile /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib.dSYM /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib
+s370002393.538369
+e370002393.592092
+r1
+xGenerateDSYMFile
+x/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib.dSYM
+x/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generating /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib.dSYMbce689d9c90db641^319497d9c90db641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib.dSYM000000000080d041^485"GenerateDSYMFile Build/Products/Release/libPFaceDetect.jnilib.dSYM Build/Products/Release/libPFaceDetect.jnilib    cd /Users/chungbryan/Documents/My_Applications/PFaceDetect    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib -o /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib.dSYM36"02F78980-8097-48D4-B8A5-580CC511D9A1-
+
+CLd /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib normal x86_64
+s370002392.931831
+e370002393.531552
+r1
+xLd
+x/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilibb6a1eed8c90db641^c61488d9c90db641^---0#0#0#--1104"Ld Build/Products/Release/libPFaceDetect.jnilib normal x86_64    cd /Users/chungbryan/Documents/My_Applications/PFaceDetect    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release -L/opt/local/lib -F/Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release -filelist /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Intermediates/PFaceDetect.build/Release/PFaceDetect.build/Objects-normal/x86_64/PFaceDetect.LinkFileList -install_name /usr/local/lib/libPFaceDetect.jnilib -mmacosx-version-min=10.8 -framework JavaVM -lopencv_core.2.4.2 -lopencv_highgui.2.4.2 -lopencv_imgproc.2.4.2 -lopencv_objdetect.2.4.2 -single_module -compatibility_version 1 -current_version 1 -o /Users/chungbryan/Documents/My_Applications/PFaceDetect/Build/Products/Release/libPFaceDetect.jnilib36"75B9D875-661B-41A1-BA03-02838B281063-
+
